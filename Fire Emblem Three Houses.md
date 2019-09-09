@@ -9,8 +9,6 @@ Let me know by reddit message or GitHub issue if you want a Mii modified or adde
 [post]: https://imgur.com/gallery/1w0Wmm0
 [comments]: https://www.reddit.com/r/fireemblem/comments/d1huf4
 
-
-
 ### How to generate these miis from instruction
 
 Options are separated by tabs with semicolons. If defined differently from default, each option is:
@@ -25,7 +23,7 @@ Options are separated by tabs with semicolons. If defined differently from defau
 
 ### Common Byleth Attributes
 
-These attributes are shared by both Byleths. Please use these first.
+These attributes are shared by both forms for Byleth. Please use these first.
 
   - **Skin colour**: `2,1`
   - **Hair colour**: `3,5`
@@ -71,7 +69,7 @@ These attributes are shared by both Byleths. Please use these first.
   - **Hair**: type `4,5,3` colour `6,7`
   - **Brow**: position `10,4,4,2,3` colour `7,5`
   - **Eyes**: type `2,4,5` colour `6,7`
-  - **Eye position**: default, but move eyes up one notch
+  - **Eye position**: *Default, but move eyes up one notch*
   - **Nose position**: `9,3`
   - **Mouth**: type `6,1` position `5,1,3` colour `8,9`
 
@@ -94,9 +92,9 @@ These attributes are shared by both Byleths. Please use these first.
   - **Hair**: type `4,6,2` colour `3,6`
   - **Brow**: type `4,4` position `5,2,8,4,3` colour `3,6`
   - **Eyes**: type `2,5,5` position `6,3,3,3,1` colour `7,5`
-  - **Nose**: type `1,3` position 9,5
-  - **Mouth**: type `3,2` position 5,2,1
-  - **Beard**: type `1,2` colour 3,6
+  - **Nose**: type `1,3` position `9,5`
+  - **Mouth**: type `3,2` position `5,2,1`
+  - **Beard**: type `1,2` colour `3,6`
   - **Glasses**: type `1,4` position `20,0` colour `7,8`
 
 
@@ -105,7 +103,7 @@ These attributes are shared by both Byleths. Please use these first.
 ### Edelgard
 
   - **Skin colour**: `2,1`
-  - **Hair**: type `5,4,1` colour [first gray]
-  - **Brow position**: Default, but lower one notch
+  - **Hair**: type `5,4,1` colour *first gray at bottom left*
+  - **Brow position**: *Default, but lower one notch*
   - **Mouth**: type `2,5` position `4,1,1`
 
