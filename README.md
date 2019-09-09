@@ -4,17 +4,28 @@ A list of Mii designs for the Nintendo Switch. Please make a pull request or iss
 
 Click any of the titles below to see the Miis in detail and an exact transcription of how to recreate their face from scratch.
 
+<style>
+  .tn {
+    width: 50;
+    display: inline-block;
+  }
+</style>
+
 ### *<a href="Fire Emblem Three Houses.md">Fire Emblem: Three Houses</a>*
-
-  <img src="https://i.imgur.com/UDU7JHd.jpg" alt="" width=50 align=left />
-  <img src="https://i.imgur.com/QR1eMtk.jpg" alt="" width=50 align=left />
-  <img src="https://i.imgur.com/vlyVM5e.jpg" alt="" width=50 align=left />
-  <img src="https://i.imgur.com/V6cOHOw.jpg" alt="" width=50 align=left />
-  <img src="https://i.imgur.com/Qaviupw.jpg" alt="" width=50 align=left />
-  <img src="https://i.imgur.com/foTvXwf.jpg" alt="" width=50 align=left />
-<br><br>
-
-[FE3H]: Fire%20Emblem%20Three%20Houses.md
+<p>
+  <img src="https://i.imgur.com/UDU7JHd.jpg" alt="" width=50 style="
+display:inline-block" />
+  <img src="https://i.imgur.com/QR1eMtk.jpg" alt="" width=50 style="
+display:inline-block" />
+  <img src="https://i.imgur.com/vlyVM5e.jpg" alt="" width=50 style="
+display:inline-block" />
+  <img src="https://i.imgur.com/V6cOHOw.jpg" alt="" width=50 style="
+display:inline-block" />
+  <img src="https://i.imgur.com/Qaviupw.jpg" alt="" width=50 style="
+display:inline-block" />
+  <img src="https://i.imgur.com/foTvXwf.jpg" alt="" width=50 style="
+display:inline-block" />
+</p>
 
 ## How to match your very own Mii by eye alone
 
