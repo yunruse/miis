@@ -2,8 +2,7 @@
 
 A list of Mii designs for the Nintendo Switch. Please make a pull request or issue if you have a Mii you have created / found and want adding to the repository.
 
-Click any of the images below to be taken to the relevant place.
-
+Click any of the titles below to see the Miis in detail and an exact transcription of how to recreate their face from scratch.
 
 ### *<a href="Fire Emblem Three Houses.md">Fire Emblem: Three Houses</a>*
 
