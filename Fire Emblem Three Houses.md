@@ -9,15 +9,17 @@ Let me know by reddit message or GitHub issue if you want a Mii modified or adde
 [post]: https://imgur.com/gallery/1w0Wmm0
 [comments]: https://www.reddit.com/r/fireemblem/comments/d1huf4
 
+
+
 ### How to generate these miis from instruction
 
-Options are separated by tabs with semicolons. Each tab, if defined differently from default, is as
+Options are separated by tabs with semicolons. If defined differently from default, each option is:
 
   - For grid-based options , `p,x,y` means page P (if paged), column X, row Y,
   - For colours, 'show more' is assumed, unless a named colour is given.
-  - For sliders, the number of notches from the very left,
+  - For sliders, (a list of entries with) the number of notches from the very left.
 
-
+![Female Byleth with Sothis behind, similar to a Stand from JoJo's Bizarre Adventure.](https://i.imgur.com/PIVQ3T9.jpg)
 
 ## Byleth
 
