@@ -86,7 +86,7 @@ Options are separated by tabs with semicolons. If defined differently from defau
   - **Hair**: type `3,4,3` colour `7,6`
   - **Brow**: position `8,2,5,3,2`
   - **Eyes**: type `2,2,5` coloue `4,6`
-  - **Eye position**: default, but fifth notch up three.
+  - **Eye position**: *Default, but fifth notch up three*
   - **Mouth**: type `4,1` position `5,1,3`
 
 <img src="https://i.imgur.com/foTvXwf.jpg" alt="Seteth" width=200 align=right />
