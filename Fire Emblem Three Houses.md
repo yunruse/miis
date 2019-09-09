@@ -82,7 +82,7 @@ Options are separated by tabs with semicolons. If defined differently from defau
 
 ### Flayn
 
-  - **Face**: type `2,2` blush `1,2` colour `2,1`
+  - **Face**: type `2,2` accent 1 `1,2` colour `2,1`
   - **Hair**: type `3,4,3` colour `7,6`
   - **Brow**: position `8,2,5,3,2`
   - **Eyes**: type `2,2,5` coloue `4,6`
