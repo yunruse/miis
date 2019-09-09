@@ -19,6 +19,15 @@ Options are separated by tabs with semicolons. If defined differently from defau
 
 ![Female Byleth with Sothis behind, similar to a Stand from JoJo's Bizarre Adventure.](https://i.imgur.com/PIVQ3T9.jpg)
 
+<img src="https://i.imgur.com/UDU7JHd.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/QR1eMtk.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/vlyVM5e.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/V6cOHOw.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/Qaviupw.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/foTvXwf.jpg" alt="" width=50 align=left />
+
+<br><br>
+
 ## Byleth
 
 ### Common Byleth Attributes
