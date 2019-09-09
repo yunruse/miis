@@ -1,24 +1,13 @@
 # *Fire Emblem: Three Houses* Miis for Switch
 
-Miis designed by [SunnySeeds] (reddit [post], [comments]), and copied and transcribed by [yunruse].
+Miis designed by [SunnySeeds] (reddit [post], [comments]), and copied and transcribed by [yunruse]. Currently incomplete.
 
-Let me know if you want an
+Let me know by reddit message or GitHub issue if you want a Mii modified or added.
 
 [SunnySeeds]: https://reddit.com/u/sunnyseeds
 [yunruse]: https://reddit.com/u/yunruse
 [post]: https://imgur.com/gallery/1w0Wmm0
 [comments]: https://www.reddit.com/r/fireemblem/comments/d1huf4
-  
-### How to match your very own Mii by eye alone
-
-I used the magic of crossing my eyes to verify each detail to be pixel-perfect:
-
-  - Place the target Mii and edited Mii close together such that they have roughly the same size and vertical aligment.
-  - Click the right stick, and cross your eyes until the images overlap.
-  - The more accurate the Mii, the easier your eyes will 'snap' into place - they're fooled into thinking you're seeing 3D.
-  - The differences will appear almost glitchy, so it is easy to modify most positions until they are correct.
-
-I don't recommend matching colours by this method, but it's fun to mess with opposite colours to see 'impossible colours'.
 
 ### How to generate these miis from instruction
 
