@@ -11,6 +11,7 @@ Let me know by reddit message or GitHub issue if you want a Mii modified or adde
 
 ### How to generate these miis from instruction
 
+
 Options are separated by tabs with semicolons. If defined differently from default, each option is:
 
   - For grid-based options , `p,x,y` means page P (if paged), column X, row Y,
@@ -30,38 +31,33 @@ Options are separated by tabs with semicolons. If defined differently from defau
 
 ## Byleth
 
-### Common Byleth Attributes
-
-These attributes are shared by both forms for Byleth. Please use these first.
-
-  - **Skin colour**: `2,1`
-  - **Hair colour**: `3,5`
-  - **Eyebrow colour**: `3,4`
-  - **Mouth**: `2,5` position `5,1,1`
+<img src="https://i.imgur.com/UDU7JHd.jpg" alt="Male Byleth" width=200 align=right />
 
 ### Male Byleth
 
-<img src="https://i.imgur.com/UDU7JHd.jpg" alt="Male Byleth" width=100 align=right />
-
-  - **Hair**: type `3,2,2`swapped
-  - **Brow**: type `4,1` position `7,2,5,3,3`
+  - **Skin colour**: `2,1`
+  - **Hair**: type `3,2,2` swapped, colour `3,5`
+  - **Brow**: type `4,1` position `7,2,5,3,3` colour `3,4`
   - **Nose position**: 8,3
   - **Eyes**: type `1,5,5` position `6,2,3,4,3` colour blue
+  - **Mouth**: `2,5` position `5,1,1`
+
+<img src="https://i.imgur.com/QR1eMtk.jpg" alt="Female Byleth" width=200 align=right />
 
 ### Female Byleth
 
-<img src="https://i.imgur.com/QR1eMtk.jpg" alt="Female Byleth" width=100 align=right />
-
-  - **Hair**: type `4,2,3`swapped
-  - **Brow**: type `4,3` position `7,2,6,3,4`
+  - **Skin colour**: `2,1`
+  - **Hair**: type `4,2,3` swapped, colour `3,5`
+  - **Brow**: type `4,3` position `7,2,6,3,4` colour `3,4`
   - **Nose position**: 9,3
   - **Eyes**: type `2,2,5` position `5,2,4,4,3` colour `5,4`
+  - **Mouth**: `2,5` position `5,1,1`
 
 ## Church of Seiros
 
-### Sothis
+<img src="https://i.imgur.com/vlyVM5e.jpg" alt="Sothis" width=200 align=right />
 
-<img src="https://i.imgur.com/vlyVM5e.jpg" alt="Sothis" width=100 align=right />
+### Sothis
 
   - **Face**: type `2,2` colour `2,1`
   - **Hair**: type `3,6,2` colour `3,6`
@@ -70,9 +66,9 @@ These attributes are shared by both forms for Byleth. Please use these first.
   - **Mouth**: type `4,5` position `4,2,0`
   - **Glasses**: type `5,4` position `12,3` colour `7,8`
 
-### Rhea
+<img src="https://i.imgur.com/V6cOHOw.jpg" alt="Rhea" width=200 align=right />
 
-<img src="https://i.imgur.com/V6cOHOw.jpg" alt="Rhea" width=100 align=right />
+### Rhea
 
   - **Skin colour**: `2,1`
   - **Hair**: type `4,5,3` colour `6,7`
@@ -82,9 +78,9 @@ These attributes are shared by both forms for Byleth. Please use these first.
   - **Nose position**: `9,3`
   - **Mouth**: type `6,1` position `5,1,3` colour `8,9`
 
-### Flayn
+<img src="https://i.imgur.com/Qaviupw.jpg" alt="Flayn" width=200 align=right />
 
-<img src="https://i.imgur.com/Qaviupw.jpg" alt="Flayn" width=100 align=right />
+### Flayn
 
   - **Face**: type `2,2` blush `1,2` colour `2,1`
   - **Hair**: type `3,4,3` colour `7,6`
@@ -93,9 +89,10 @@ These attributes are shared by both forms for Byleth. Please use these first.
   - **Eye position**: default, but fifth notch up three.
   - **Mouth**: type `4,1` position `5,1,3`
 
+<img src="https://i.imgur.com/foTvXwf.jpg" alt="Seteth" width=200 align=right />
+
 ### Seteth
 
-<img src="https://i.imgur.com/foTvXwf.jpg" alt="Seteth" width=100 align=right />
 
   - **Skin colour**: `2,1`
   - **Hair**: type `4,6,2` colour `3,6`
