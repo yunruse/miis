@@ -35,6 +35,15 @@ Options are separated by tabs with semicolons. If defined differently from defau
   <img src="https://i.imgur.com/GIK6lxZ.jpg" alt="" width=50 />
   <img src="https://i.imgur.com/I6AyYjl.jpg" alt="" width=50 />
   <img src="https://i.imgur.com/Sq8KhAV.jpg" alt="" width=50 />
+  
+  <img src="https://i.imgur.com/NpyCTBA.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/cX2JsvD.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/ckYCmzS.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/xTShqFA.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/EXX59gM.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/TCpxddw.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/DwZuF2j.jpg" alt="" width=50>
+  <img src="https://i.imgur.com/aucBJj1.jpg" alt="" width=50>
 </p>
 
 ## Byleth
