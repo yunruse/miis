@@ -124,7 +124,7 @@ Options are separated by tabs with semicolons. If defined differently from defau
   - **Brow position**: *lower one notch*
   - **Mouth**: type `2,5` position `4,1,1`
   
-
+<br><br>
 <img src="https://i.imgur.com/fvV7595.jpg" alt="Ferdinand von Aegir" width=200 align=right />
 
 ### Ferdinand von Aegir
@@ -147,6 +147,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Eyes**: type `2,2,5` position `6,2,4,3,5` colour green
   - **Mouths**: type `2,1` position `5,2,3` colour pale
 
+<br>
 <img src="https://i.imgur.com/eSVRmsw.jpg" alt="Caspar von Bergliez" width=200 align=right />
 
 ### Caspar von Bergliez
