@@ -266,8 +266,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Eye**: `2,2,4` position `6,2,4,4,3` colour `2,9`
   - **Mouth**: type `1,4` position `5,2,3`
 
-<br>
-
+<br><br>
 <img src="https://i.imgur.com/TCpxddw.jpg" width=200 align=right>
 
 ### Mercedes von Martritz
@@ -278,7 +277,6 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Mouth**: type `1,3` position `5,1,3` colour 10,1
 
 <br>
-
 <img src="https://i.imgur.com/DwZuF2j.jpg" width=200 align=right>
 
 ### Dedue Molinaro
