@@ -207,7 +207,7 @@ I almost wish there was a slightly more muted orange that fit here.
 
 ## Blue Lions
 
-<img src="https://i.imgur.com/NpyCTBA.jpg" width=200 float=right>
+<img src="https://i.imgur.com/NpyCTBA.jpg" width=200 align=right>
 
 ### Dimitri Alexandre Blaiddyd
 
@@ -217,7 +217,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Nose**: type `1,1` position `7,4`
   - **Mouth**: type `2,5` position `3,2,2`
 
-<img src="https://i.imgur.com/cX2JsvD.jpg" width=200 float=right>
+<img src="https://i.imgur.com/cX2JsvD.jpg" width=200 align=right>
 
 ### Annette Fanine Dominic
 
@@ -228,7 +228,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Nose**: type `1,1` position `9,3`
   - **Mouth**: type `3,1` position `5,1,4`
 
-<img src="https://i.imgur.com/ckYCmzS.jpg" width=200 float=right>
+<img src="https://i.imgur.com/ckYCmzS.jpg" width=200 align=right>
 
 ### Felix Hugo Fraldarius
 
@@ -238,7 +238,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Eyes**: type `5,5` position `7,2,3,4,3` colour `3,9`
   - **Mouth**: type `3,2` position `5,1,3`
 
-<img src="https://i.imgur.com/xTShqFA.jpg" width=200 float=right>
+<img src="https://i.imgur.com/xTShqFA.jpg" width=200 align=right>
 
 ### Ingrid Brandl Galatea
 
@@ -248,7 +248,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Nose position**: down one notch
   - **Mouth**: type `3,1` position `3,1,2`
 
-<img src="https://i.imgur.com/EXX59gM.jpg" width=200 float=right>
+<img src="https://i.imgur.com/EXX59gM.jpg" width=200 align=right>
 
 ### Sylvain Jose Gautier
 
@@ -257,7 +257,9 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Eye**: `2,2,4` position `6,2,4,4,3` colour `2,9`
   - **Mouth**: type `1,4` position `5,2,3`
 
-<img src="https://i.imgur.com/TCpxddw.jpg" width=200 float=right>
+<br>
+
+<img src="https://i.imgur.com/TCpxddw.jpg" width=200 align=right>
 
 ### Mercedes von Martritz
 
@@ -266,7 +268,9 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Eyes**: type `2,6,2` position `5,3,5,3,5` colour blue
   - **Mouth**: type `1,3` position `5,1,3` colour 10,1
 
-<img src="https://i.imgur.com/DwZuF2j.jpg" width=200 float=right>
+<br>
+
+<img src="https://i.imgur.com/DwZuF2j.jpg" width=200 align=right>
 
 ### Dedue Molinaro
 
@@ -278,7 +282,7 @@ I almost wish there was a slightly more muted orange that fit here.
   - **Mouth position**: `5,3,4`
 
 
-<img src="https://i.imgur.com/aucBJj1.jpg" width=200 float=right>
+<img src="https://i.imgur.com/aucBJj1.jpg" width=200 align=right>
 
 ### Ashe Ubert
 
