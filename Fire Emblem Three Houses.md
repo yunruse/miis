@@ -20,22 +20,23 @@ Options are separated by tabs with semicolons. If defined differently from defau
 
 ![Female Byleth with Sothis behind, similar to a Stand from JoJo's Bizarre Adventure.](https://i.imgur.com/PIVQ3T9.jpg)
 
-<img src="https://i.imgur.com/UDU7JHd.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/QR1eMtk.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/vlyVM5e.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/V6cOHOw.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/Qaviupw.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/foTvXwf.jpg" alt="" width=50 align=left />
+<p align=left>
+<img src="https://i.imgur.com/UDU7JHd.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/QR1eMtk.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/vlyVM5e.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/V6cOHOw.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/Qaviupw.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/foTvXwf.jpg" alt="" width=50 />
 
-<img src="https://i.imgur.com/UGsu4Jd.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/fvV7595.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/4PYud8c.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/go1HNTf.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/GIK6lxZ.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/I6AyYjl.jpg" alt="" width=50 align=left />
-<img src="https://i.imgur.com/Sq8KhAV.jpg" alt="" width=50 align=left />
+<img src="https://i.imgur.com/UGsu4Jd.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/fvV7595.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/4PYud8c.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/go1HNTf.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/GIK6lxZ.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/I6AyYjl.jpg" alt="" width=50 />
+<img src="https://i.imgur.com/Sq8KhAV.jpg" alt="" width=50 />
 
-<br><br>
+</p>
 
 ## Byleth
 
